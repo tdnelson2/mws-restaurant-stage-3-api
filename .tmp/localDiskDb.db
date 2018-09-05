@@ -21,9 +21,9 @@
           "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
         },
         "createdAt": 1504095563444,
-        "updatedAt": "2017-09-14T14:01:27.653Z",
+        "updatedAt": "2018-09-04T06:02:15.768Z",
         "id": 1,
-        "is_favorite": false
+        "is_favorite": "true"
       },
       {
         "name": "Emily",
@@ -45,8 +45,8 @@
           "Sunday": "12:00 pm - 3:00 pm, 5:00 pm - 11:00 pm"
         },
         "createdAt": 1504095568414,
-        "updatedAt": "2017-09-14T14:05:54.800Z",
-        "is_favorite": false,
+        "updatedAt": "2018-09-05T04:48:44.531Z",
+        "is_favorite": "false",
         "id": 2
       },
       {
@@ -69,7 +69,8 @@
           "Sunday": "11:30 am - 2:00 am"
         },
         "createdAt": 1504095571434,
-        "updatedAt": 1504095571434,
+        "updatedAt": "2018-09-05T04:48:56.737Z",
+        "is_favorite": "true",
         "id": 3
       },
       {
@@ -92,8 +93,8 @@
           "Sunday": "Sat - 10:30 pm"
         },
         "createdAt": 1504095567091,
-        "updatedAt": 1504095567091,
-        "is_favorite": false,
+        "updatedAt": "2018-09-04T06:00:15.899Z",
+        "is_favorite": "true",
         "id": 4
       },
       {
@@ -188,8 +189,8 @@
           "Sunday": "10:00 am - 3:00 pm, 5:30 pm - 11:00 pm"
         },
         "createdAt": 1504095567091,
-        "updatedAt": 1504095567091,
-        "is_favorite": false,
+        "updatedAt": "2018-09-04T06:00:20.394Z",
+        "is_favorite": "true",
         "id": 8
       },
       {
@@ -212,13 +213,14 @@
           "Sunday": "5:00 pm - 10:00 pm"
         },
         "createdAt": 1504095567191,
-        "updatedAt": 1504095567191,
-        "is_favorite": false,
+        "updatedAt": "2018-09-04T06:00:23.377Z",
+        "is_favorite": "true",
         "id": 9
       },
       {
         "name": "Casa Enrique",
         "neighborhood": "Queens",
+        "photograph": "10",
         "address": "5-48 49th Ave, Queens, NY 11101",
         "latlng": {
           "lat": 40.743394,
